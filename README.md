@@ -71,11 +71,11 @@ Password - masai
 
 ## 🔗 Links
 
-Dashboard - https://hm-system.netlify.app/
+Dashboard - https://650070075cf4cf033e183733--cerulean-wisp-b858d9.netlify.app/
 
-User Side - https://hms-user-side.netlify.app/
+User Side - https://650070075cf4cf033e183733--cerulean-wisp-b858d9.netlify.app/
 
-Server - https://github.com/piyush-agrawal6/HMS-Backend
+
 
 ## Screenshots
 
@@ -107,11 +107,9 @@ Server - https://github.com/piyush-agrawal6/HMS-Backend
 
 ![31 01 2023_21 15 44_REC](https://user-images.githubusercontent.com/100460788/215808752-4ebfb582-1db0-45e4-ac53-a87a5f1b75ea.png)
 
-## Presentation
 
-Link - <a href="https://drive.google.com/file/d/1xwcSsjdl6QHnJ-JXl11moBAwSqSQFRjh/view?usp=sharing" alt="presentation">Drive</a>
 
 ## Team Members / Contributors
+-[Abhishek Kumar Gupta](https://github.com/Abhis786)
 
-- [@Abhishek Kumar Gupta](https:// github.com/Abhis786)
 
